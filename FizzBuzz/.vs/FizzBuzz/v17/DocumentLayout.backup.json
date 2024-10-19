@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itste\\source\\repos\\FizzBuzz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DBC6D1-1FA4-49C2-8733-EF824C34C24E}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\itste\\source\\repos\\fizzbuzz\\fizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DBC6D1-1FA4-49C2-8733-EF824C34C24E}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\itste\\source\\repos\\FizzBuzz\\FizzBuzz\\Program.cs",
+              "RelativeDocumentMoniker": "FizzBuzz\\Program.cs",
+              "ToolTip": "C:\\Users\\itste\\source\\repos\\FizzBuzz\\FizzBuzz\\Program.cs",
+              "RelativeToolTip": "FizzBuzz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:54:59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

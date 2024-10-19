@@ -1,0 +1,14 @@
+C:\Users\itste\OneDrive\Desktop\Coding\CsharpProjects\IterationsArrays\bin\Debug\net8.0\IterationsArrays.exe
+C:\Users\itste\OneDrive\Desktop\Coding\CsharpProjects\IterationsArrays\bin\Debug\net8.0\IterationsArrays.deps.json
+C:\Users\itste\OneDrive\Desktop\Coding\CsharpProjects\IterationsArrays\bin\Debug\net8.0\IterationsArrays.runtimeconfig.json
+C:\Users\itste\OneDrive\Desktop\Coding\CsharpProjects\IterationsArrays\bin\Debug\net8.0\IterationsArrays.dll
+C:\Users\itste\OneDrive\Desktop\Coding\CsharpProjects\IterationsArrays\bin\Debug\net8.0\IterationsArrays.pdb
+C:\Users\itste\OneDrive\Desktop\Coding\CsharpProjects\IterationsArrays\obj\Debug\net8.0\IterationsArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itste\OneDrive\Desktop\Coding\CsharpProjects\IterationsArrays\obj\Debug\net8.0\IterationsArrays.AssemblyInfoInputs.cache
+C:\Users\itste\OneDrive\Desktop\Coding\CsharpProjects\IterationsArrays\obj\Debug\net8.0\IterationsArrays.AssemblyInfo.cs
+C:\Users\itste\OneDrive\Desktop\Coding\CsharpProjects\IterationsArrays\obj\Debug\net8.0\IterationsArrays.csproj.CoreCompileInputs.cache
+C:\Users\itste\OneDrive\Desktop\Coding\CsharpProjects\IterationsArrays\obj\Debug\net8.0\IterationsArrays.dll
+C:\Users\itste\OneDrive\Desktop\Coding\CsharpProjects\IterationsArrays\obj\Debug\net8.0\refint\IterationsArrays.dll
+C:\Users\itste\OneDrive\Desktop\Coding\CsharpProjects\IterationsArrays\obj\Debug\net8.0\IterationsArrays.pdb
+C:\Users\itste\OneDrive\Desktop\Coding\CsharpProjects\IterationsArrays\obj\Debug\net8.0\IterationsArrays.genruntimeconfig.cache
+C:\Users\itste\OneDrive\Desktop\Coding\CsharpProjects\IterationsArrays\obj\Debug\net8.0\ref\IterationsArrays.dll

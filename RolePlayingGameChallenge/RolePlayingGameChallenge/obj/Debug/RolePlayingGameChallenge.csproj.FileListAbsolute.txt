@@ -1,0 +1,7 @@
+C:\Users\itste\source\repos\RolePlayingGameChallenge\RolePlayingGameChallenge\bin\Debug\RolePlayingGameChallenge.exe.config
+C:\Users\itste\source\repos\RolePlayingGameChallenge\RolePlayingGameChallenge\bin\Debug\RolePlayingGameChallenge.exe
+C:\Users\itste\source\repos\RolePlayingGameChallenge\RolePlayingGameChallenge\bin\Debug\RolePlayingGameChallenge.pdb
+C:\Users\itste\source\repos\RolePlayingGameChallenge\RolePlayingGameChallenge\obj\Debug\RolePlayingGameChallenge.csproj.AssemblyReference.cache
+C:\Users\itste\source\repos\RolePlayingGameChallenge\RolePlayingGameChallenge\obj\Debug\RolePlayingGameChallenge.csproj.CoreCompileInputs.cache
+C:\Users\itste\source\repos\RolePlayingGameChallenge\RolePlayingGameChallenge\obj\Debug\RolePlayingGameChallenge.exe
+C:\Users\itste\source\repos\RolePlayingGameChallenge\RolePlayingGameChallenge\obj\Debug\RolePlayingGameChallenge.pdb

@@ -1,0 +1,7 @@
+C:\Users\itste\source\repos\ChallengeActBoolean\ChallengeActBoolean\bin\Debug\ChallengeActBoolean.exe.config
+C:\Users\itste\source\repos\ChallengeActBoolean\ChallengeActBoolean\bin\Debug\ChallengeActBoolean.exe
+C:\Users\itste\source\repos\ChallengeActBoolean\ChallengeActBoolean\bin\Debug\ChallengeActBoolean.pdb
+C:\Users\itste\source\repos\ChallengeActBoolean\ChallengeActBoolean\obj\Debug\ChallengeActBoolean.csproj.AssemblyReference.cache
+C:\Users\itste\source\repos\ChallengeActBoolean\ChallengeActBoolean\obj\Debug\ChallengeActBoolean.csproj.CoreCompileInputs.cache
+C:\Users\itste\source\repos\ChallengeActBoolean\ChallengeActBoolean\obj\Debug\ChallengeActBoolean.exe
+C:\Users\itste\source\repos\ChallengeActBoolean\ChallengeActBoolean\obj\Debug\ChallengeActBoolean.pdb

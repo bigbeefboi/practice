@@ -1,0 +1,7 @@
+C:\Users\itste\source\repos\GuidedProjCalculateFinalGPA\GuidedProjCalculateFinalGPA\bin\Debug\GuidedProjCalculateFinalGPA.exe.config
+C:\Users\itste\source\repos\GuidedProjCalculateFinalGPA\GuidedProjCalculateFinalGPA\bin\Debug\GuidedProjCalculateFinalGPA.exe
+C:\Users\itste\source\repos\GuidedProjCalculateFinalGPA\GuidedProjCalculateFinalGPA\bin\Debug\GuidedProjCalculateFinalGPA.pdb
+C:\Users\itste\source\repos\GuidedProjCalculateFinalGPA\GuidedProjCalculateFinalGPA\obj\Debug\GuidedProjCalculateFinalGPA.csproj.AssemblyReference.cache
+C:\Users\itste\source\repos\GuidedProjCalculateFinalGPA\GuidedProjCalculateFinalGPA\obj\Debug\GuidedProjCalculateFinalGPA.csproj.CoreCompileInputs.cache
+C:\Users\itste\source\repos\GuidedProjCalculateFinalGPA\GuidedProjCalculateFinalGPA\obj\Debug\GuidedProjCalculateFinalGPA.exe
+C:\Users\itste\source\repos\GuidedProjCalculateFinalGPA\GuidedProjCalculateFinalGPA\obj\Debug\GuidedProjCalculateFinalGPA.pdb

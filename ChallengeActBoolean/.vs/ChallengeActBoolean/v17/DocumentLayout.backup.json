@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itste\\source\\repos\\ChallengeActBoolean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE1448-EF0D-4F4A-AD94-59AEE63537E2}|ChallengeActBoolean\\ChallengeActBoolean.csproj|c:\\users\\itste\\source\\repos\\challengeactboolean\\challengeactboolean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AE1448-EF0D-4F4A-AD94-59AEE63537E2}|ChallengeActBoolean\\ChallengeActBoolean.csproj|solutionrelative:challengeactboolean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\itste\\source\\repos\\ChallengeActBoolean\\ChallengeActBoolean\\Program.cs",
+              "RelativeDocumentMoniker": "ChallengeActBoolean\\Program.cs",
+              "ToolTip": "C:\\Users\\itste\\source\\repos\\ChallengeActBoolean\\ChallengeActBoolean\\Program.cs",
+              "RelativeToolTip": "ChallengeActBoolean\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:52:18.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

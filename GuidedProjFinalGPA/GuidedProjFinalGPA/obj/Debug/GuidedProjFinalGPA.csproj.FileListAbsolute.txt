@@ -1,0 +1,7 @@
+C:\Users\itste\source\repos\GuidedProjFinalGPA\GuidedProjFinalGPA\bin\Debug\GuidedProjFinalGPA.exe.config
+C:\Users\itste\source\repos\GuidedProjFinalGPA\GuidedProjFinalGPA\bin\Debug\GuidedProjFinalGPA.exe
+C:\Users\itste\source\repos\GuidedProjFinalGPA\GuidedProjFinalGPA\bin\Debug\GuidedProjFinalGPA.pdb
+C:\Users\itste\source\repos\GuidedProjFinalGPA\GuidedProjFinalGPA\obj\Debug\GuidedProjFinalGPA.csproj.AssemblyReference.cache
+C:\Users\itste\source\repos\GuidedProjFinalGPA\GuidedProjFinalGPA\obj\Debug\GuidedProjFinalGPA.csproj.CoreCompileInputs.cache
+C:\Users\itste\source\repos\GuidedProjFinalGPA\GuidedProjFinalGPA\obj\Debug\GuidedProjFinalGPA.exe
+C:\Users\itste\source\repos\GuidedProjFinalGPA\GuidedProjFinalGPA\obj\Debug\GuidedProjFinalGPA.pdb

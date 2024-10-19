@@ -1,0 +1,7 @@
+C:\Users\itste\source\repos\Validation\Validation\bin\Debug\Validation.exe.config
+C:\Users\itste\source\repos\Validation\Validation\bin\Debug\Validation.exe
+C:\Users\itste\source\repos\Validation\Validation\bin\Debug\Validation.pdb
+C:\Users\itste\source\repos\Validation\Validation\obj\Debug\Validation.csproj.AssemblyReference.cache
+C:\Users\itste\source\repos\Validation\Validation\obj\Debug\Validation.csproj.CoreCompileInputs.cache
+C:\Users\itste\source\repos\Validation\Validation\obj\Debug\Validation.exe
+C:\Users\itste\source\repos\Validation\Validation\obj\Debug\Validation.pdb
