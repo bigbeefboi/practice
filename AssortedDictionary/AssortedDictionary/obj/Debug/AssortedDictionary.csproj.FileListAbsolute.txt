@@ -1,0 +1,6 @@
+C:\Users\faizy\source\repos\AssortedDictionary\AssortedDictionary\bin\Debug\AssortedDictionary.exe.config
+C:\Users\faizy\source\repos\AssortedDictionary\AssortedDictionary\bin\Debug\AssortedDictionary.exe
+C:\Users\faizy\source\repos\AssortedDictionary\AssortedDictionary\bin\Debug\AssortedDictionary.pdb
+C:\Users\faizy\source\repos\AssortedDictionary\AssortedDictionary\obj\Debug\AssortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\faizy\source\repos\AssortedDictionary\AssortedDictionary\obj\Debug\AssortedDictionary.exe
+C:\Users\faizy\source\repos\AssortedDictionary\AssortedDictionary\obj\Debug\AssortedDictionary.pdb

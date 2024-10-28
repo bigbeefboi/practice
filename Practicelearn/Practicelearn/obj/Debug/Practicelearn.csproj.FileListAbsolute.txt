@@ -1,0 +1,7 @@
+C:\Users\faizy\source\repos\Practicelearn\Practicelearn\bin\Debug\Practicelearn.exe.config
+C:\Users\faizy\source\repos\Practicelearn\Practicelearn\bin\Debug\Practicelearn.exe
+C:\Users\faizy\source\repos\Practicelearn\Practicelearn\bin\Debug\Practicelearn.pdb
+C:\Users\faizy\source\repos\Practicelearn\Practicelearn\obj\Debug\Practicelearn.csproj.AssemblyReference.cache
+C:\Users\faizy\source\repos\Practicelearn\Practicelearn\obj\Debug\Practicelearn.csproj.CoreCompileInputs.cache
+C:\Users\faizy\source\repos\Practicelearn\Practicelearn\obj\Debug\Practicelearn.exe
+C:\Users\faizy\source\repos\Practicelearn\Practicelearn\obj\Debug\Practicelearn.pdb

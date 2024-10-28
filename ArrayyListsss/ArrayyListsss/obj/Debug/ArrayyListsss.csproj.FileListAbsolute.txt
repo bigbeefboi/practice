@@ -1,0 +1,7 @@
+C:\Users\faizy\source\repos\ArrayyListsss\ArrayyListsss\bin\Debug\ArrayyListsss.exe.config
+C:\Users\faizy\source\repos\ArrayyListsss\ArrayyListsss\bin\Debug\ArrayyListsss.exe
+C:\Users\faizy\source\repos\ArrayyListsss\ArrayyListsss\bin\Debug\ArrayyListsss.pdb
+C:\Users\faizy\source\repos\ArrayyListsss\ArrayyListsss\obj\Debug\ArrayyListsss.csproj.AssemblyReference.cache
+C:\Users\faizy\source\repos\ArrayyListsss\ArrayyListsss\obj\Debug\ArrayyListsss.csproj.CoreCompileInputs.cache
+C:\Users\faizy\source\repos\ArrayyListsss\ArrayyListsss\obj\Debug\ArrayyListsss.exe
+C:\Users\faizy\source\repos\ArrayyListsss\ArrayyListsss\obj\Debug\ArrayyListsss.pdb

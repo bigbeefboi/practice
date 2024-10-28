@@ -1,0 +1,7 @@
+C:\Users\faizy\source\repos\GettersSetters\GettersSetters\bin\Debug\GettersSetters.exe.config
+C:\Users\faizy\source\repos\GettersSetters\GettersSetters\bin\Debug\GettersSetters.exe
+C:\Users\faizy\source\repos\GettersSetters\GettersSetters\bin\Debug\GettersSetters.pdb
+C:\Users\faizy\source\repos\GettersSetters\GettersSetters\obj\Debug\GettersSetters.csproj.AssemblyReference.cache
+C:\Users\faizy\source\repos\GettersSetters\GettersSetters\obj\Debug\GettersSetters.csproj.CoreCompileInputs.cache
+C:\Users\faizy\source\repos\GettersSetters\GettersSetters\obj\Debug\GettersSetters.exe
+C:\Users\faizy\source\repos\GettersSetters\GettersSetters\obj\Debug\GettersSetters.pdb

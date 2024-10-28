@@ -1,0 +1,10 @@
+C:\Users\faizy\source\repos\EduvosMap\EduvosMap\bin\Debug\EduvosMap.exe.config
+C:\Users\faizy\source\repos\EduvosMap\EduvosMap\bin\Debug\EduvosMap.exe
+C:\Users\faizy\source\repos\EduvosMap\EduvosMap\bin\Debug\EduvosMap.pdb
+C:\Users\faizy\source\repos\EduvosMap\EduvosMap\obj\Debug\EduvosMap.csproj.AssemblyReference.cache
+C:\Users\faizy\source\repos\EduvosMap\EduvosMap\obj\Debug\EduvosMap.Form1.resources
+C:\Users\faizy\source\repos\EduvosMap\EduvosMap\obj\Debug\EduvosMap.Properties.Resources.resources
+C:\Users\faizy\source\repos\EduvosMap\EduvosMap\obj\Debug\EduvosMap.csproj.GenerateResource.cache
+C:\Users\faizy\source\repos\EduvosMap\EduvosMap\obj\Debug\EduvosMap.csproj.CoreCompileInputs.cache
+C:\Users\faizy\source\repos\EduvosMap\EduvosMap\obj\Debug\EduvosMap.exe
+C:\Users\faizy\source\repos\EduvosMap\EduvosMap\obj\Debug\EduvosMap.pdb

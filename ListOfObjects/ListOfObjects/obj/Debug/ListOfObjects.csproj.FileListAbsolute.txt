@@ -1,0 +1,7 @@
+C:\Users\faizy\source\repos\ListOfObjects\ListOfObjects\bin\Debug\ListOfObjects.exe.config
+C:\Users\faizy\source\repos\ListOfObjects\ListOfObjects\bin\Debug\ListOfObjects.exe
+C:\Users\faizy\source\repos\ListOfObjects\ListOfObjects\bin\Debug\ListOfObjects.pdb
+C:\Users\faizy\source\repos\ListOfObjects\ListOfObjects\obj\Debug\ListOfObjects.csproj.AssemblyReference.cache
+C:\Users\faizy\source\repos\ListOfObjects\ListOfObjects\obj\Debug\ListOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\faizy\source\repos\ListOfObjects\ListOfObjects\obj\Debug\ListOfObjects.exe
+C:\Users\faizy\source\repos\ListOfObjects\ListOfObjects\obj\Debug\ListOfObjects.pdb

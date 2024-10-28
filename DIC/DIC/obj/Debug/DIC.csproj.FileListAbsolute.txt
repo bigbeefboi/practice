@@ -1,0 +1,7 @@
+C:\Users\faizy\source\repos\DIC\DIC\bin\Debug\DIC.exe.config
+C:\Users\faizy\source\repos\DIC\DIC\bin\Debug\DIC.exe
+C:\Users\faizy\source\repos\DIC\DIC\bin\Debug\DIC.pdb
+C:\Users\faizy\source\repos\DIC\DIC\obj\Debug\DIC.csproj.AssemblyReference.cache
+C:\Users\faizy\source\repos\DIC\DIC\obj\Debug\DIC.csproj.CoreCompileInputs.cache
+C:\Users\faizy\source\repos\DIC\DIC\obj\Debug\DIC.exe
+C:\Users\faizy\source\repos\DIC\DIC\obj\Debug\DIC.pdb

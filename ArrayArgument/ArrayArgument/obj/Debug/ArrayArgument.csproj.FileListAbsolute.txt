@@ -1,0 +1,7 @@
+C:\Users\faizy\source\repos\ArrayArgument\ArrayArgument\bin\Debug\ArrayArgument.exe.config
+C:\Users\faizy\source\repos\ArrayArgument\ArrayArgument\bin\Debug\ArrayArgument.exe
+C:\Users\faizy\source\repos\ArrayArgument\ArrayArgument\bin\Debug\ArrayArgument.pdb
+C:\Users\faizy\source\repos\ArrayArgument\ArrayArgument\obj\Debug\ArrayArgument.csproj.AssemblyReference.cache
+C:\Users\faizy\source\repos\ArrayArgument\ArrayArgument\obj\Debug\ArrayArgument.csproj.CoreCompileInputs.cache
+C:\Users\faizy\source\repos\ArrayArgument\ArrayArgument\obj\Debug\ArrayArgument.exe
+C:\Users\faizy\source\repos\ArrayArgument\ArrayArgument\obj\Debug\ArrayArgument.pdb

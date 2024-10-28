@@ -1,0 +1,7 @@
+C:\Users\faizy\source\repos\itooa\itooa\bin\Debug\itooa.exe.config
+C:\Users\faizy\source\repos\itooa\itooa\bin\Debug\itooa.exe
+C:\Users\faizy\source\repos\itooa\itooa\bin\Debug\itooa.pdb
+C:\Users\faizy\source\repos\itooa\itooa\obj\Debug\itooa.csproj.AssemblyReference.cache
+C:\Users\faizy\source\repos\itooa\itooa\obj\Debug\itooa.csproj.CoreCompileInputs.cache
+C:\Users\faizy\source\repos\itooa\itooa\obj\Debug\itooa.exe
+C:\Users\faizy\source\repos\itooa\itooa\obj\Debug\itooa.pdb

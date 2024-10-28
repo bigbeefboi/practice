@@ -1,0 +1,7 @@
+C:\Users\faizy\source\repos\Dic2\Dic2\bin\Debug\Dic2.exe.config
+C:\Users\faizy\source\repos\Dic2\Dic2\bin\Debug\Dic2.exe
+C:\Users\faizy\source\repos\Dic2\Dic2\bin\Debug\Dic2.pdb
+C:\Users\faizy\source\repos\Dic2\Dic2\obj\Debug\Dic2.csproj.AssemblyReference.cache
+C:\Users\faizy\source\repos\Dic2\Dic2\obj\Debug\Dic2.csproj.CoreCompileInputs.cache
+C:\Users\faizy\source\repos\Dic2\Dic2\obj\Debug\Dic2.exe
+C:\Users\faizy\source\repos\Dic2\Dic2\obj\Debug\Dic2.pdb

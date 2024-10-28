@@ -1,0 +1,11 @@
+C:\Users\faizy\source\repos\EduvosPlanner\EduvosPlanner\bin\Debug\EduvosPlanner.exe.config
+C:\Users\faizy\source\repos\EduvosPlanner\EduvosPlanner\bin\Debug\EduvosPlanner.exe
+C:\Users\faizy\source\repos\EduvosPlanner\EduvosPlanner\bin\Debug\EduvosPlanner.pdb
+C:\Users\faizy\source\repos\EduvosPlanner\EduvosPlanner\obj\Debug\EduvosPlanner.csproj.AssemblyReference.cache
+C:\Users\faizy\source\repos\EduvosPlanner\EduvosPlanner\obj\Debug\EduvosPlanner.Properties.Resources.resources
+C:\Users\faizy\source\repos\EduvosPlanner\EduvosPlanner\obj\Debug\EduvosPlanner.csproj.GenerateResource.cache
+C:\Users\faizy\source\repos\EduvosPlanner\EduvosPlanner\obj\Debug\EduvosPlanner.csproj.CoreCompileInputs.cache
+C:\Users\faizy\source\repos\EduvosPlanner\EduvosPlanner\obj\Debug\EduvosPlanner.exe
+C:\Users\faizy\source\repos\EduvosPlanner\EduvosPlanner\obj\Debug\EduvosPlanner.pdb
+C:\Users\faizy\source\repos\EduvosPlanner\EduvosPlanner\obj\Debug\EduvosPlanner.LoginForm.resources
+C:\Users\faizy\source\repos\EduvosPlanner\EduvosPlanner\obj\Debug\EduvosPlanner.EduvosPlannerDashboard.resources

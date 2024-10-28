@@ -1,0 +1,7 @@
+C:\Users\faizy\source\repos\MultiArrayAsArgument\MultiArrayAsArgument\bin\Debug\MultiArrayAsArgument.exe.config
+C:\Users\faizy\source\repos\MultiArrayAsArgument\MultiArrayAsArgument\bin\Debug\MultiArrayAsArgument.exe
+C:\Users\faizy\source\repos\MultiArrayAsArgument\MultiArrayAsArgument\bin\Debug\MultiArrayAsArgument.pdb
+C:\Users\faizy\source\repos\MultiArrayAsArgument\MultiArrayAsArgument\obj\Debug\MultiArrayAsArgument.csproj.AssemblyReference.cache
+C:\Users\faizy\source\repos\MultiArrayAsArgument\MultiArrayAsArgument\obj\Debug\MultiArrayAsArgument.csproj.CoreCompileInputs.cache
+C:\Users\faizy\source\repos\MultiArrayAsArgument\MultiArrayAsArgument\obj\Debug\MultiArrayAsArgument.exe
+C:\Users\faizy\source\repos\MultiArrayAsArgument\MultiArrayAsArgument\obj\Debug\MultiArrayAsArgument.pdb

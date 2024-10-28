@@ -1,0 +1,7 @@
+C:\Users\faizy\source\repos\MultiArrays\MultiArrays\bin\Debug\MultiArrays.exe.config
+C:\Users\faizy\source\repos\MultiArrays\MultiArrays\bin\Debug\MultiArrays.exe
+C:\Users\faizy\source\repos\MultiArrays\MultiArrays\bin\Debug\MultiArrays.pdb
+C:\Users\faizy\source\repos\MultiArrays\MultiArrays\obj\Debug\MultiArrays.csproj.AssemblyReference.cache
+C:\Users\faizy\source\repos\MultiArrays\MultiArrays\obj\Debug\MultiArrays.csproj.CoreCompileInputs.cache
+C:\Users\faizy\source\repos\MultiArrays\MultiArrays\obj\Debug\MultiArrays.exe
+C:\Users\faizy\source\repos\MultiArrays\MultiArrays\obj\Debug\MultiArrays.pdb
